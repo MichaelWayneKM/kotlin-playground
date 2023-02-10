@@ -29,6 +29,11 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+@Composable
+fun BaseScreen() {
+    Text("This is my base screen!")
+}
+
 
 @Preview(showBackground = true)
 @Composable
