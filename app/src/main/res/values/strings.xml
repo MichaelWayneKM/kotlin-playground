@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BasicsCodelabCompose</string>
+    <string name="card_paragraph_greetings">
+        The crisp autumn air filled the park as the leaves rustled underfoot.
+        A light breeze carried the scent of woodsmoke and wet earth. The sun was just beginning to
+        dip below the treeline, casting long shadows across the grass
+        and illuminating the colorful foliage. People of all ages strolled along the paths, admiring
+        the beauty of the season.
+    </string>
 </resources>
